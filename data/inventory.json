@@ -1,0 +1,66 @@
+[
+  {
+    "sku": "SKU001",
+    "product_name": "Gaming Laptop",
+    "stock_quantity": 45,
+    "unit_price": 1299.99,
+    "category": "Electronics",
+    "last_updated": "2024-01-20"
+  },
+  {
+    "sku": "SKU002",
+    "product_name": "Office Chair",
+    "stock_quantity": 120,
+    "unit_price": 249.99,
+    "category": "Furniture",
+    "last_updated": "2024-01-19"
+  },
+  {
+    "sku": "SKU003",
+    "product_name": "Wireless Mouse",
+    "stock_quantity": 500,
+    "unit_price": 25.99,
+    "category": "Electronics",
+    "last_updated": "2024-01-20"
+  },
+  {
+    "sku": "SKU004",
+    "product_name": "Mechanical Keyboard",
+    "stock_quantity": 180,
+    "unit_price": 89.99,
+    "category": "Electronics",
+    "last_updated": "2024-01-18"
+  },
+  {
+    "sku": "SKU005",
+    "product_name": "Monitor Stand",
+    "stock_quantity": 75,
+    "unit_price": 39.99,
+    "category": "Furniture",
+    "last_updated": "2024-01-20"
+  },
+  {
+    "sku": "SKU006",
+    "product_name": "USB Hub",
+    "stock_quantity": 250,
+    "unit_price": 34.99,
+    "category": "Electronics",
+    "last_updated": "2024-01-17"
+  },
+  {
+    "sku": "SKU007",
+    "product_name": "Desk Lamp",
+    "stock_quantity": 95,
+    "unit_price": 49.99,
+    "category": "Furniture",
+    "last_updated": "2024-01-20"
+  },
+  {
+    "sku": "SKU008",
+    "product_name": "4K Monitor",
+    "stock_quantity": 30,
+    "unit_price": 399.99,
+    "category": "Electronics",
+    "last_updated": "2024-01-19"
+  }
+]

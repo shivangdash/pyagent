@@ -1,0 +1,13 @@
+customer_id,name,email,age,purchase_count,total_spent,region,status
+C001,John Smith,john@example.com,35,5,1500,North,active
+C002,Jane Doe,jane@example.com,28,12,3200,South,active
+C003,Bob Johnson,bob@example.com,45,3,800,East,active
+C004,Alice Williams,alice@example.com,32,8,2100,West,active
+C005,Charlie Brown,charlie@example.com,50,2,600,North,inactive
+C006,Diana Prince,diana@example.com,29,15,4500,South,active
+C007,Edward Norton,edward@example.com,38,6,1800,East,active
+C008,Fiona Green,fiona@example.com,26,10,2800,West,active
+C009,George Hardy,george@example.com,55,1,300,North,inactive
+C010,Helen Carter,helen@example.com,33,9,2400,South,active
+C011,Ivan Petrov,ivan@example.com,41,4,1100,East,active
+C012,Julia Roberts,julia@example.com,36,11,3100,West,active
